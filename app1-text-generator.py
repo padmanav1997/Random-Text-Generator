@@ -1,7 +1,7 @@
 import random
 
 vowels='aeiou'
-consonants='bcdfghjklmnpqrstvwxz'
+consonants='bcdfghjklmnpqrstvwxyz'
 letters=vowels+consonants
 
 letter_input_1=input("What letter do you want? Enter 'v' for vowels, 'c' for consonants, 'l' for any letter: ")
