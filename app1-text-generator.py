@@ -1,6 +1,6 @@
 import random
 
-vowels='aeiouy'
+vowels='aeiou'
 consonants='bcdfghjklmnpqrstvwxz'
 letters=vowels+consonants
 
